@@ -1,0 +1,14 @@
+# Instagram Downloader boti uchun kutubxonalar
+# O'rnatish: pip install -r requirements.txt
+
+# Telegram boti uchun asinxron framework (aiogram v3)
+aiogram>=3.13.0,<4.0.0
+
+# Instagram/Twitter/YouTube va boshqa saytlardan video yuklab olish dvigateli
+yt-dlp>=2024.8.6
+
+# .env fayldan maxfiy sozlamalarni o'qish
+python-dotenv>=1.0.1
+
+# Google Gemini API — video uchun qiziqarli tavsif (caption) generatsiya qilish
+google-genai>=1.0.0

@@ -1,0 +1,21 @@
+# Maxfiy sozlamalar hech qachon commit qilinmaydi
+.env
+cookies.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Vaqtinchalik fayllar
+igbot_*/
+*.part
+*.ytdl
+
+# Tahrirchilar / Tizim
+.vscode/
+.idea/
+.DS_Store
